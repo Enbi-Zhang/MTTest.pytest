@@ -1,0 +1,8 @@
+app_bundle_id	com.microsoft.translator
+appium_server_url	http://172.16.2.222:4723
+platformName	iOS
+platformVersion	17.4
+deviceName	iPhone 15 Pro Max
+udid	B63B7A93-8513-4DFA-B9F8-A85D6A0D9A2C
+is_installed_path	/Users/mttest2/PycharmProjects/pythonProject1_pytest/Base/isInstalled.txt
+app_path	/Users/mttest2/Desktop/MT-demo/translator_24_2_1_27.app
